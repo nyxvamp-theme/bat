@@ -12,12 +12,15 @@ a minimalist theme collection, inspired by a blend of gothic and emo aesthetics 
 
 3. **radiance**: light theme optimized for daylight use, ensuring excellent readability.
 
+4. **jhujuba**: pink-tinted mid-dark theme, sweeter than veil.
+
 ## usage
 
 1. download theme files from the `themes/` directory:
    - `nyxvamp-veil.tmTheme`
    - `nyxvamp-obsidian.tmTheme`
    - `nyxvamp-radiance.tmTheme`
+   - `nyxvamp-jhujuba.tmTheme`
 
 2. place themes into the bat themes directory:
    - unix/linux: `~/.config/bat/themes/`
